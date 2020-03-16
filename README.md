@@ -31,10 +31,10 @@ The Project emphasis on creating AWS cloud infrastructure through code using Ter
  - On macOS, use terminal with command: ssh-keygen -t mykey
  - Store mykey and mykey.pub files to locally downloaded repository
 3. Create terraform.tfvars file with following credentials
- AWS_ACCESS_KEY = ""
-AWS_SECRET_KEY = ""
-RDS_USERNAME   = ""
-RDS_PASSWORD   = ""
+ AWS_ACCESS_KEY = ""  
+ AWS_SECRET_KEY = ""  
+ RDS_USERNAME   = ""  
+ RDS_PASSWORD   = ""  
 4. Use Terraform commands to create AWS stacks
 5. Use output ip credentials in browser to check if webserver functioning
 6. Destroy terraform stack at the end of work session.
