@@ -40,3 +40,6 @@ The Project emphasis on creating AWS cloud infrastructure through code using Ter
 6. Destroy terraform stack at the end of work session.
 
 Refer Terraform Documentation for more details: [terraform.io](https://terraform.io)
+
+## Meta
+Sharad Vadher   email: sharadsinh@yahoo.com 
