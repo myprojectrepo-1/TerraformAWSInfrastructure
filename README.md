@@ -30,7 +30,7 @@ The Project emphasis on creating AWS cloud infrastructure through code using Ter
  - On Windows, use puttey.keygen
  - On macOS, use terminal with command: ssh-keygen -t mykey
  - Store mykey and mykey.pub files to locally downloaded repository
-3. Create terraform.tfvars file with following credentials
+3. Create terraform.tfvars file with following credentials  
  AWS_ACCESS_KEY = ""  
  AWS_SECRET_KEY = ""  
  RDS_USERNAME   = ""  
