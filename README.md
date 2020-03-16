@@ -1,6 +1,6 @@
 # Terraform for AWS
 
-The Project emphasis on creating AWS cloud infrastructure through code using Terraform. Features include:
+The Project emphasis on creating AWS Cloud infrastructure using Terraform. Features include:
 
 - Creation of VPC
 - Creating Internet Gateway
@@ -18,7 +18,7 @@ The Project emphasis on creating AWS cloud infrastructure through code using Ter
 ## Pre-requisites
 1. Git (Install and configure git to clone repository) - optional
 2. Terraform (Install Terraform)
-3. AWS Account
+3. AWS Account with elevated user privileges
 
 ## Compatibility
 * terraform >= 0.12
@@ -26,7 +26,7 @@ The Project emphasis on creating AWS cloud infrastructure through code using Ter
 ## Configuration Steps
 
 1. Clone git repository locally or download zip file
-2. Create "mykey" keypair using keygen.
+2. Create "mykey" keypair using keygen
  - On Windows, use puttey.keygen
  - On macOS, use terminal with command: ssh-keygen -t mykey
  - Store mykey and mykey.pub files to locally downloaded repository
@@ -43,4 +43,4 @@ Refer Terraform Documentation for more details: [terraform.io](https://terraform
 
 ## Meta
 Sharad Vadher   
-email: sharadsinh@yahoo.com 
+email: sharadsinh@yahoo.com
